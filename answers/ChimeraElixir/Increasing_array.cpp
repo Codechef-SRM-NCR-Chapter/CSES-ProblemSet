@@ -1,4 +1,4 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 #define ll long long
 #define loop for(ll i=0;i<n;i++)
